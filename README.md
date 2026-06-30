@@ -22,3 +22,27 @@ contributors to development of CVD.
 
 **Keywords:** machine learning, data science, data cleaning, cardiovascular disease, Bangladesh, regression, decision
 trees, linear regression.
+
+## Features (not all used)
+
+1. **Sex:** Male or Female.
+2. **Age:** Patient’s age (in years).
+3. **Weight (kg):** Patient’s weight in kilograms.
+4. **Height (m):** Patient’s height in meters.
+5. **BMI:** Body Mass Index, calculated from weight and height.
+6. **Abdominal Circumference (cm):** Measurement of abdominal girth.
+7. **BP:** Blood pressure readings.
+8. **Total Cholesterol:** Total cholesterol levels in the blood.
+9. **HDL:** High-density lipoprotein levels, also known as the “good” cholesterol.
+10. **Fasting Blood Sugar:** Blood glucose levels after fasting.
+11. **Smoking Status:** Indicates whether the patient is a smoker.
+12. **Diabetes Status:** Indicates whether the patient has diabetes.
+13. **Physical Activity Level:** Level of physical activity.
+14. **Family History of CVD:** Indicates if there is a family history of cardiovascular diseases.
+15. **CVD Risk Level:** Classification of the patient’s CVD risk level.
+16. **Height (cm):** Patient’s height in centimeters.
+17. **Waist-to-Height Ratio:** Ratio of waist circumference to height.
+18. **Systolic BP:** Systolic blood pressure, this is the number which is more significant.
+19. **Diastolic BP:** Diastolic blood pressure.
+20. **Blood Pressure Category:** Classification of blood pressure levels.
+21. **Estimated LDL:** Estimated low-density lipoprotein levels, also known as the “bad” cholesterol.
