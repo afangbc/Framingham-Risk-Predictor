@@ -1,4 +1,4 @@
-# Framingham Risk Score Predictor
+# Cardioscope
 Machine Learning Models Predicting Risk of Heart Disease within 10 years
 
 ## Paper
